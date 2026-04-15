@@ -1,14 +1,14 @@
 ## Hi, I'm Ichha Mishra ✨
 
-An AI/ML student who enjoys learning, building, and exploring new technologies.
+An AI/ML student who enjoys learning, building, and exploring new technologies.<br>
 
-🎓 B.Tech CSE (AIML) student
-🏫 Noida Institute of Engineering & Technology, Greater Noida, India
-💡 Interested in Artificial Intelligence, Machine Learning & Web Development
-🌱 Currently learning programming and improving problem-solving skills
-🚀 Exploring different technologies and building small projects
+🎓 B.Tech CSE (AIML) student<br>
+🏫 Noida Institute of Engineering & Technology, Greater Noida, India<br>
+💡 Interested in Artificial Intelligence, Machine Learning & Web Development<br>
+🌱 Currently learning programming and improving problem-solving skills<br>
+🚀 Exploring different technologies and building small projects<br>
 
-*🎯 Trying to turn ideas into reality, one line of code at a time.*
+*🎯 Trying to turn ideas into reality, one line of code at a time.*<br>
 
 
 ## 🌐 Socials:
